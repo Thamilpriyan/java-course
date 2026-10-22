@@ -11,6 +11,7 @@ class PrintDemo{
 		System.out.print("My age is 24");
 		
 		System.out.print("\n");
+
 		
 		System.out.print("My name is Thamilpriyan\n");
 		System.out.print("My father name is Sujatharan\n");
