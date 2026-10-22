@@ -3,7 +3,6 @@ class ArithmaticOperator{
 		int x=10;
 		int y=5;
 
-		
 		System.out.println("x = "+ x);
 		System.out.println("y = "+y);
 		
