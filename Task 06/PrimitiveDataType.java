@@ -3,6 +3,7 @@ class PrimitiveDataType{
 		byte b1;
 		b1=12;
 		System.out.println("Byte: "+b1);
+
 		
 		short s1;
 		s1=3200;
